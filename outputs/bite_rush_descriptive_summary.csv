@@ -1,0 +1,12 @@
+Metric,Value
+Total Orders,45593.0
+Average Delivery Time,26.29
+Median Delivery Time,26.0
+Minimum Delivery Time,10.0
+Maximum Delivery Time,54.0
+P90 Delivery Time,40.0
+Delayed Orders,4037.0
+Delay Percentage,8.85
+On-Time Percentage,91.15
+Average Pickup Delay,9.99
+Average Delivery Distance,99.3
